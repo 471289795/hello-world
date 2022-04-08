@@ -1,3 +1,3 @@
 # hello-world
 this is my first github repository I made
-This is Ming a math-computer science major in UCSD
+This is Ming a math-computer science major in University of California San Diego
